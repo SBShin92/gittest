@@ -1,3 +1,7 @@
 냉무
+<<<<<<< HEAD
 fdsjkdlfjskdlfjslkdf
 vdkjfnbjkfdnbkfjd
+=======
+zzzzzzzzzzzzzz
+>>>>>>> feature_a
